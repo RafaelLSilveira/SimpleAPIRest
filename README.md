@@ -1,47 +1,40 @@
-# TO DO LIST
-To Do List where is possible:
-  >Insert items;
-  
-  > Remove items;
-  
-  > Check as concluded.
+# SIMPLE API REST
+Simple API REST for study purposes.
 
 ## Interface
-![image](https://user-images.githubusercontent.com/49955909/113614102-6e667a00-9628-11eb-943c-5282a7b54584.png)
+![image](https://user-images.githubusercontent.com/49955909/152644520-bc92b8b9-35e7-4725-962c-36e282157069.png)
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+````
+Tip: Use the 'http://localhost:[yourPort]/swagger' to give access to API interface.
+```
 ### Prerequisites
 
-* **Yarn** package manager or another manager like a npm
+* **.NetCore** 2.1 or higher
+```
+Tip: Use the command below to check which version is running on your computer.
+dotnet --version
+```
 
 ### Installing
 
-This application do not necessary install only you will need copy the repository and execute *yarn start* command.
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This application do not necessary install because it is a simple code with study purpose.
 
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com/docs) - The framework used
-* [ReactJS](https://reactjs.org/) - Development JavaScript library
+* [.NET Core](https://docs.microsoft.com/en-us/dotnet) - Dependency Development
 
 ## Author
 
-* **Rafael Silveira** - *One simple thing can change the World* - [GitHub](https://github.com/RafaelLSilveira) - [Linkedin](https://www.linkedin.com/in/rafael-lopes-silveira-aa07209a/) - sepolrafael@gmail.com
+* **Rafael Silveira** - *One simple thing can change the World* - [GitHub](https://github.com/RafaelLSilveira) - [Linkedin](https://www.linkedin.com/in/rafaellsilveira) - sepolrafael@gmail.com
 
-## Learn More about ReactJS
+## Learn More about C#
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can learn more in the [Dotnet CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/).
 
 ## License
 
