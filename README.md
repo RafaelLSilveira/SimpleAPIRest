@@ -8,7 +8,7 @@ Simple API REST for study purposes.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-````
+```
 Tip: Use the 'http://localhost:[yourPort]/swagger' to give access to API interface.
 ```
 ### Prerequisites
